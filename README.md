@@ -58,6 +58,9 @@ Toda la lógica de limpieza, transformación y modelado se encuentra en el archi
 ├── requirements.txt            # Dependencias del proyecto
 └── README.md
 
+
+   ```
+
 ---
 
 ## Instalación y Ejecución
@@ -67,7 +70,6 @@ Toda la lógica de limpieza, transformación y modelado se encuentra en el archi
 3. Instalar las dependencias:
    ```bash
    pip install -r requirements.txt
-   ```
 4. Ejecutar el pipeline:
    ```bash
    python pipeline.py
